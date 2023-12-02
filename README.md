@@ -1,6 +1,6 @@
 # Road-Accident-Analysis-Excel-Project
 
-objective:
+Objective:
 "Develop a comprehensive road accident dashboard encompassing data from 2021 and 2022. The dashboard aims to provide insightful analytics and visual representations to address the following key requirements:
 
 Key Performance Indicators:
